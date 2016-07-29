@@ -30,10 +30,10 @@ Returns an integer value using the following operators:
 Arithmetic expression will always route to the success data out.
 
 ### Left operand
-Left operand of the expression. ( X + 5 )
+Left operand of the expression. ( x + 5 )
 
 ### Right operand
-Right operand of the expression.( 5 + X )
+Right operand of the expression. ( 5 + x )
 
 ### Result private data key
 Save the resulting value to a private data key.
