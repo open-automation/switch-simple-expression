@@ -1,6 +1,8 @@
 # simple-expression
 Evaluate simple boolean or arithmetic expressions with binary operators. 
 
+<img src="http://i.imgur.com/bOIfdNM.png">
+
 ## Flow element properties
 
 ### Expression type
